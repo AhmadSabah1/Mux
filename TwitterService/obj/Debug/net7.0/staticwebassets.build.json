@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "C7mtnC1TKXZLNsEq/06gtQHRTrekbGrJoFRJNWj96w0=",
+  "Source": "TwitterService",
+  "BasePath": "_content/TwitterService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

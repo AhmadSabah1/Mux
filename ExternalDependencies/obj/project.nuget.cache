@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dxwBaqtYuGNxl2Dq321X4aOWZHA9hjW+mMRc60kq4/QxqL3fHhmWe2H0kvciTaMSJZCo1BiyPOWr/E1ZbKHIDg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ahmad\\OneDrive\\Skrivebord\\TwitterService\\ExternalDependencies\\ExternalDependencies.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ahmad\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

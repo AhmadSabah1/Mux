@@ -1,0 +1,1 @@
+﻿public record TweetData(string AuthorName, string Text, IEnumerable<string> MediaUrls);

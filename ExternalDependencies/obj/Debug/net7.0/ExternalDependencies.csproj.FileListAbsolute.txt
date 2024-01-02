@@ -1,0 +1,15 @@
+C:\Users\Ahmad\OneDrive\Skrivebord\TwitterService\ExternalDependencies\bin\Debug\net7.0\ExternalDependencies.deps.json
+C:\Users\Ahmad\OneDrive\Skrivebord\TwitterService\ExternalDependencies\bin\Debug\net7.0\ExternalDependencies.dll
+C:\Users\Ahmad\OneDrive\Skrivebord\TwitterService\ExternalDependencies\bin\Debug\net7.0\ExternalDependencies.pdb
+C:\Users\Ahmad\OneDrive\Skrivebord\TwitterService\ExternalDependencies\bin\Debug\net7.0\Core.dll
+C:\Users\Ahmad\OneDrive\Skrivebord\TwitterService\ExternalDependencies\bin\Debug\net7.0\Core.pdb
+C:\Users\Ahmad\OneDrive\Skrivebord\TwitterService\ExternalDependencies\obj\Debug\net7.0\ExternalDependencies.csproj.AssemblyReference.cache
+C:\Users\Ahmad\OneDrive\Skrivebord\TwitterService\ExternalDependencies\obj\Debug\net7.0\ExternalDependencies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmad\OneDrive\Skrivebord\TwitterService\ExternalDependencies\obj\Debug\net7.0\ExternalDependencies.AssemblyInfoInputs.cache
+C:\Users\Ahmad\OneDrive\Skrivebord\TwitterService\ExternalDependencies\obj\Debug\net7.0\ExternalDependencies.AssemblyInfo.cs
+C:\Users\Ahmad\OneDrive\Skrivebord\TwitterService\ExternalDependencies\obj\Debug\net7.0\ExternalDependencies.csproj.CoreCompileInputs.cache
+C:\Users\Ahmad\OneDrive\Skrivebord\TwitterService\ExternalDependencies\obj\Debug\net7.0\ExternalDependencies.csproj.CopyComplete
+C:\Users\Ahmad\OneDrive\Skrivebord\TwitterService\ExternalDependencies\obj\Debug\net7.0\ExternalDependencies.dll
+C:\Users\Ahmad\OneDrive\Skrivebord\TwitterService\ExternalDependencies\obj\Debug\net7.0\refint\ExternalDependencies.dll
+C:\Users\Ahmad\OneDrive\Skrivebord\TwitterService\ExternalDependencies\obj\Debug\net7.0\ExternalDependencies.pdb
+C:\Users\Ahmad\OneDrive\Skrivebord\TwitterService\ExternalDependencies\obj\Debug\net7.0\ref\ExternalDependencies.dll
